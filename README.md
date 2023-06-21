@@ -25,10 +25,6 @@ The Sales Distribution exhibits a long tail on the right side, indicating the pr
 
    
 </pre>
-
-<img width="723" alt="image" src="https://github.com/Inyourdreams12/Commercial_Analysis_FFE_Company/assets/119731058/5cdfbf2a-18a8-40ac-b616-a448152fbbad">
-Realize that a high correlation between Profit & Discount leads to discount resulting in negative profit
-
 <pre>
 
 
@@ -37,4 +33,4 @@ Realize that a high correlation between Profit & Discount leads to discount resu
    
 </pre>
 <img width="737" alt="image" src="https://github.com/Inyourdreams12/Commercial_Analysis_FFE_Company/assets/119731058/6be75f43-65f4-4417-9294-8d88dfeba3aa">
-
+Realize that a high correlation between Profit & Discount leads to discount resulting in negative profit
