@@ -40,7 +40,7 @@ Realize that a high correlation between Profit & Discount leads to discount resu
 But the Blinders sub-category with a discount of 38% still generates a profit of almost 8000$
 
 -  Tables with an average discount of 26% lead to a significant negative profit of $8,140. This suggests that offering such discounts on tables is not financially viable for the company and should be reconsidered.
--  Pricing strategy: The analysis of discounts and profitability can inform the company's pricing strategy. Instead of solely relying on discounts, considering factors such as product value, market demand, and competition can help establish optimal pricing that maximizes both sales and profitability.
+-  The analysis of discounts and profitability can inform the company's pricing strategy. Instead of solely relying on discounts, considering factors such as product value, market demand, and competition can help establish optimal pricing that maximizes both sales and profitability.
 <pre>
 
 
@@ -50,3 +50,7 @@ But the Blinders sub-category with a discount of 38% still generates a profit of
 </pre>
 
 <img width="737" alt="image" src="https://github.com/Inyourdreams12/Commercial_Analysis_FFE_Company/assets/119731058/9a217ea9-6e38-4313-b2cb-e9095f3e539f">
+
+The substantial increase in sales, from $5,665 to $759,592, indicates a remarkable expansion in revenue over this period. This growth demonstrates the company's ability to attract more customers, increase market share, and effectively sell its products or services.
+
+Simultaneously, the profit cumulative sum showed impressive progress, going from a negative value of -$388 to $94,000. This signifies a significant turnaround for the company, transforming from a loss-making situation to achieving a profitable position. This improvement in profit indicates that the business successfully managed its expenses, optimized its operational efficiency, or implemented strategies to increase profit margins.
