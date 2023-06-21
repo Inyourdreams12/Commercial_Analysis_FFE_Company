@@ -16,4 +16,14 @@ The Yearend Commercial Analysis of a Furniture, Fixtures, and Equipment (FF&E) c
 ## VISUALIZE THE DATA AND FINDINGS
 
 <img width="723" alt="image" src="https://github.com/Inyourdreams12/Commercial_Analysis_FFE_Company/assets/119731058/00a4494c-cf0a-4a02-a81a-b017f0fa7272">
-The sales distribution exhibits a long tail on the right side, indicating the presence of a few high-value sales. Identifying the factors driving these high-value sales can help in targeting similar customers or markets
+The Sales Distribution exhibits a long tail on the right side, indicating the presence of a few high-value sales. Identifying the factors driving these high-value sales can help in targeting similar customers or markets
+
+<pre>
+hello, this is
+   just an     example
+....
+</pre>
+
+<img width="723" alt="image" src="https://github.com/Inyourdreams12/Commercial_Analysis_FFE_Company/assets/119731058/5cdfbf2a-18a8-40ac-b616-a448152fbbad">
+Realize that a high correlation between Profit & Discount, leads to discount resulting in negative profit
+
