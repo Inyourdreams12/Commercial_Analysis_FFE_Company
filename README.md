@@ -1,6 +1,6 @@
 ### Commercial Analysis FFE Company in 2020
 
-The Yearend Commercial Analysis of a Furniture, Fixtures, and Equipment (FF&E) company is a report that provides some assessment of the commercial performance, financial status and evaluates various aspects of the company's operations, sales, and profitability.
+The Yearend Commercial Analysis of a Furniture, Fixtures, and Equipment (FF&E) company is a report that provides some assessment of the commercial performance, financial status and evaluates various aspects of the company: operations, sales, and profitability.
 
 ## THE METHODS AND QUESTIONS WERE SOLVED IN THIS ANALYSIS
 
